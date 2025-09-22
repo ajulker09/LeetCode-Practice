@@ -2,7 +2,7 @@
 ---
 # LeetCode Practice: Ahmed Julkernain 
 
-Every summer I tell myself I am going to start leetcoding. Summer has now become fall and I have finally started. This is a
+Every summer I tell myself I am going to start leetcoding. Summer has now become fall and I have finally started. This is my leetcode journey. I manifest that one day this will open doors I never would have imagined.
 
 - **Arrays and Strings**
   - Prefix Sum: 6 problems solved
