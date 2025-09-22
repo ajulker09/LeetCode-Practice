@@ -1,6 +1,6 @@
 
 ---
-#LeetCode Practice: Ahmed Julkernain 
+#  Practice: Ahmed Julkernain 
 
 Every summer I tell myself I am going to start leetcoding. Summer has now become fall and I have finally started. 
 
